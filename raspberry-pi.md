@@ -8,6 +8,7 @@
 
 - What is a Raspberry PI
 - How I'm using it
+- Other projects
 - Alternatives
 
 ---
@@ -21,7 +22,7 @@
   - Apple iPods and iPhones... All of them.
   - Apple's new Silicon processor is ARM based
   - Android phones
-- As of December 2019, more than thirty million boards have been sold [twitter](https://twitter.com/EbenUpton/status/1205646606504275968).
+- As of December 2019, more than thirty million boards have been sold (source: [twitter](https://twitter.com/EbenUpton/status/1205646606504275968) ).
 
 Note:
 
@@ -243,25 +244,6 @@ Note:
 
 ---
 
-## Buying suggestions
-
-
-## Beginner
-
-- Go with Raspberry Pi 3 Model B+
-  - have heard of people having "issues" with the v4 models but not sure what
-- have had good experience with CanaKit packs on amazon
-  - usually just get the board, heat sink, and power adapter
-  - other things I either have already or buy separately like MicroSD cards
-
-
-## More interested in electronics
-
-- Adaruit has several starter kits and include leds and breadboard and such
-- CanaKit also offers a pretty big hobby kit.
-
----
-
 ## Alternatives
 
 
@@ -291,49 +273,5 @@ Note:
 
 ---
 
-## What I learned
-
-- lower level programming <!-- .element: class="fragment" -->
-- wireless technology <!-- .element: class="fragment" -->
-
-Note:
-
-- lower level programming
-    - came from PHP, python
-    - how to take two bytes and convert to integer
-- wireless
-    - can save 8 bytes by converting float (4 bytes) to int (2 bytes)
-    - dealing with interference
-
-## Is the garage door fixed?
-
-- never could figure out why it would open
-- since using this there was maybe one time door opened on it's own
-- Improved monitoring of garage...
-
-
-## A new way to check garage door
-
-<p><img src="img/garage.jpg" width="600"></p>
-
-Note:
-
-- if just left and unsure can look it up on phone (after pulling in to a parking lot of course)
-
-<p>CHECK TIME BEFORE GOING DOWN TO NEXT SLIDE<p>
-
-
-## Other arduino projects
-
----
-
 ## Questions?
 
-- https://jeelabs.net/projects/hardware/wiki/JeeNode - Information on jeenodes
-    - Search for: `jeenode`
-- https://moderndevice.com/product/jeenode-v6-kit/ - Where to buy it
-    - Search for: `jeenode modern device`
-- Code for jeelinks
-    - https://github.com/vrillusions/jeenode-sketches
-- Code for jeelink-listener that receives info from jeenodes:
-    - https://github.com/vrillusions/jeelink-receiver
